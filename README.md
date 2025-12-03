@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a professional developer and technical leader on modeling and simulation software. For now, I am specialized in _finite elements methods_ but currently switching.
+
+Before I start my next job:
+- 🔭 I’m currently starting a project of board game AI. This is an opportunity to learn how to use GitHub, code in Java, use LLMs for coding and use ML tools like _reinforcement learning_.
+- ❤️ I **love** board games. Quite fond also of photography 📷 and sailing ⛵.
+- 🧮Professionnally, I am fond of _applied maths_ 📖 and driving projects 📊.
+- 🌱 I’m currently learning Java, Cursor, GitHub and Reinforcement Learning.
+- ☕ I'm the sociable type, so I'd love to connect if we have shared interests!
